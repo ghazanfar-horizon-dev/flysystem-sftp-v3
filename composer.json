@@ -1,5 +1,5 @@
 {
-  "name": "league/flysystem-sftp-v4",
+  "name": "kleague/flysystem-sftp-v4",
   "description": "SFTP filesystem adapter for Flysystem.",
   "keywords": [
     "flysystem",
